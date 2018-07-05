@@ -17,8 +17,8 @@ time_manager=pygame.time.Clock()             #for managing the fps
 font_msg=pygame.font.SysFont(None,25)
 font_score=pygame.font.SysFont(None,25)
 
-chitthi="""YOU LOST...!!!
-press:(p) to play_again...
+chitthi="""YOU LOST...!!!\n
+press:(p) to play_again...\n
       (q) to quit..."""
 
 
